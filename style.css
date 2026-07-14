@@ -57,6 +57,12 @@ input {
   letter-spacing: -0.09em;
 }
 
+.wordmark img {
+  display: block;
+  width: 120px;
+  height: auto;
+}
+
 .desktop-nav {
   display: flex;
   align-items: center;
